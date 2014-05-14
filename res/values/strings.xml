@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NFC Emulation</string>
+    <string name="action_quit">Quit</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="scan_card">Scan Card</string>
+    <string name="scan_process">onScanPress</string>
+    <string name="intro_message">This is NFC Application \n 1): Pair the device to send the data through NFC. \n 2): Enable NFC settings in both the device.                
+\n 3): Touch back of the both the devices. \n4): Touch the screen to transfer the data.</string>
+    <string name="error">Error</string>
+    <string name="no_nfc">No NFC found on this device</string>
+    <string name="nfc_disabled">NFC is not enabled. Please go to the wireless settings to enable it.</string>
+    <string name="send_card">Send Card Info</string>
+
+</resources>
